@@ -5,10 +5,14 @@
     "filename": "readyforland-otopeni.zip",
     "description": "to be added"
   },
-  "Giroc":
+  "GIROC":
   {
     "name": "Aerodromul Giroc",
     "filename": "readyforland-aerodrom-giroc.zip",
-    "",
+    "description": ""
+  },
+  "LRCN":
+  {
+    
   }
 }
